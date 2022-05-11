@@ -10,3 +10,7 @@ Analyze a real-world dataset using Python pandas.
 A simple web scraper to scrap book details.
 <br><a href="https://github.com/LijiAlex/MyProjects/blob/main/WebScrapper.ipynb">Code Link</a>
 <br><a href="https://youtu.be/3yhnXvYzZ58">Video Link</a>
+
+## Students' Performance Dataset EDA
+EDA on Students' Performance Dataset
+<br><a href="https://github.com/LijiAlex/MyProjects/blob/main/Students'%20Performance%20EDA.ipynb">Code Link</a>
