@@ -1,5 +1,5 @@
 # MyProjects
-Simple Python projects
+Few experimental project files
 
 ## Startup Funding Analysis
 Analyze a real-world dataset using Python pandas.
