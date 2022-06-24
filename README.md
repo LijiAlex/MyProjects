@@ -15,7 +15,7 @@ A simple web scraper to scrap book details.
 EDA on Students' Performance Dataset
 <br><a href="https://github.com/LijiAlex/MyProjects/blob/main/Students'%20Performance%20EDA.ipynb">Code Link</a>
 
-## Balck Friday Dataset Feature engineering
+## Black Friday Dataset Feature engineering
 Feature Engineering on Black Friday Dataset
 <br><a href="https://github.com/LijiAlex/MyProjects/blob/main/Black Friday Feature Engineering.ipynb">Code Link</a>
 
