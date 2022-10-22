@@ -1,6 +1,10 @@
 # MyProjects
 Few experimental project files
 
+## California Housing Prediction ##
+Build a model of housing prices in California using the California census data.
+<br><a href="https://github.com/LijiAlex/HousingPrediction">Code Link</a>
+
 ## Startup Funding Analysis
 Analyze a real-world dataset using Python pandas.
 <br><a href="https://github.com/LijiAlex/MyProjects/blob/main/StartupFundingAnalysis.ipynb">Code Link</a>
